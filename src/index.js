@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
 import './index.css';
+import 'jquery';
+import { popper } from 'bootstrap';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

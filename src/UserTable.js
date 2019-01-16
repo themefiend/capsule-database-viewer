@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { fire } from './fire.js'
+import 'jquery';
 import UserTableRow from './UserTableRow.js';
 
 class UserTable extends Component {
